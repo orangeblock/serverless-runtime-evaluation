@@ -1,0 +1,9 @@
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/obj/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.csprojAssemblyReference.cache
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/obj/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.AssemblyInfoInputs.cache
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/obj/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.AssemblyInfo.cs
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/obj/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.csproj.CoreCompileInputs.cache
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/bin/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.deps.json
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/bin/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.dll
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/bin/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.pdb
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/obj/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.dll
+/root/functions/net/Apache.OpenWhisk.EmptyFunc/obj/Release/netstandard2.0/Apache.OpenWhisk.EmptyFunc.pdb
