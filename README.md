@@ -14,7 +14,7 @@ For running the provided scripts make sure you are in on the Kubernetes master a
 
 Edit `rawrunner.py` and `reqrunner.sh` to add any additional logic for calling your functions like in the provided examples. Simply pay attention to the _name_ variable, which should be the same as the name of the function you created on the platform.
 
-### Fisison
+### Fission
 
 Fetching metrics from Fission requires access to Prometheus. Run the provided `port-forward.sh` script in the background before running the experiments. For client request experiments you also need to expose the router component using `router-forward.sh`. The port numbers are hardcoded and if you want to change them you also need to update the runner scripts.
 
