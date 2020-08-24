@@ -4,6 +4,7 @@ import requests
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 
+# default openwhisk credentials from official docs
 AUTH_USER = '23bc46b1-71f6-4ed5-8c54-816aa4f8c502'
 AUTH_PASS = '123zO3xZCLrMN6v2BKK1dXYFpXlPkccOFqm12CdAsMgRU4VrNZ9lyGVCGuMDGIwP'
 CONTAINER_LIFETIME = 605
